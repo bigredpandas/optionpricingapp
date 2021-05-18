@@ -5,7 +5,7 @@ The app uses the [tradier API](https://documentation.tradier.com) for real-time 
 
 Getting started:
 1. Make sure you use a recent Matlab version. The app was developed in matlab R2019b 9.7.0, newer version could work.
-2. Add your tradier API-key to the file [defAPIKeys.m](defAPIKeys.m). 
+2. Add your tradier API-key to the file [defAPIKey.m](defAPIKey.m). 
 3. Start the matlab app [OptionPricingApp.mlapp](OptionPricingApp.mlapp) and paste in the Option Data Symbol the name of a current option. The notation has to be the one from Yahoo finance ([here an example for Tesla options](https://finance.yahoo.com/quote/TSLA/options/)).
 4. Have fun!
 
