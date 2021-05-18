@@ -1,7 +1,7 @@
 # optionpricingapp
 A tool in Matlab for calculating the "fair" price of a put or call option using the Black-Scholes-Equation, Monte-Carlo-Simulation and the Cox-Ross-Rubinstein-Model.
 
-The app uses the [tradier API](https://documentation.tradier.com) for real-time US stock information and the [xml-endpoint from the U.S. Department of Treasury](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/pages/textview.aspx?data=yield).
+The app uses the [tradier API](https://documentation.tradier.com/brokerage-api/overview/market-data) for real-time US stock information and the [xml-endpoint from the U.S. Department of Treasury](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/pages/textview.aspx?data=yield).
 
 Getting started:
 1. Make sure you use a recent Matlab version. The app was developed in matlab R2019b 9.7.0, newer version could work.
